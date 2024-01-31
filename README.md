@@ -1,5 +1,4 @@
 ## Hi, I'm Rodolfo Oliveira 👋
-![](https://komarev.com/ghpvc/?username=rodolfooliveiram&color=4d4dff)
 
 - 👨‍💻 Front-end Developer with bachelor's degree in Information Systems
 - 💼 Currently on career transition
