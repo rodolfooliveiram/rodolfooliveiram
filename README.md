@@ -17,17 +17,14 @@
   <img width="83em" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
   <img width="51em" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
   <img width="76em" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
-  
 </div>
 
 <br>
 
 ## GitHub Analytics
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=rodolfooliveiram&show_icons=true&title_color=4d4dff&icon_color=fada5f&rank_icon=github&bg_color=010409&border_color=010409&theme=github_dark#gh-dark-mode-only">
-  <img height="221px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfooliveiram&show_icons=true&title_color=4d4dff&icon_color=fada5f&bg_color=010409&border_color=010409&layout=compact">
-</div>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=rodolfooliveiram&show_icons=true&title_color=4d4dff&icon_color=fada5f&rank_icon=github&bg_color=010409&border_color=010409&theme=github_dark#gh-dark-mode-only">
+<img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfooliveiram&show_icons=true&title_color=4d4dff&text_color=ffffff&icon_color=fada5f&bg_color=010409&border_color=010409&layout=compact">
 
 <!--
 [![Rodolfo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rodolfooliveiram&show_icons=true&title_color=4d4dff&icon_color=fada5f&rank_icon=github&bg_color=010409&border_color=010409&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
