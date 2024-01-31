@@ -6,7 +6,7 @@
 
 <br>
 
-## Mainly current techs
+## Main current techs
 
 <div style="display: flex; flex-wrap: wrap;">
   <img width="100em" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
